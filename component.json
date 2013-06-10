@@ -1,0 +1,18 @@
+{
+  "name": "memoize-async",
+  "repo": "segmentio/memoize-async",
+  "description": "Memoize the results of async functions",
+  "version": "0.0.1",
+  "keywords": [
+    "memoize"
+  ],
+  "dependencies": {
+    "timoxley/next-tick": "*"
+  },
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
