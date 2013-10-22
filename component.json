@@ -2,7 +2,7 @@
   "name": "memoize-async",
   "repo": "segmentio/memoize-async",
   "description": "Memoize the results of async functions",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "keywords": [
     "memoize"
   ],
